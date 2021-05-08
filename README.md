@@ -23,4 +23,8 @@ system to make your own audiobook.
 - 语音转文字
 
 ## Effect display 
-
+- user view
+![USER](https://github.com/feixiangdjames/readingbook/blob/main/img/bookuser.gif)
+- admin view
+![Poduct](https://github.com/feixiangdjames/readingbook/blob/main/img/bookadmin.gif)
+- Detail Page 
