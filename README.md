@@ -7,15 +7,11 @@ system to make your own audiobook.
 > front-end :HTML,CSS, javaScript `reactJs` </br>
 > back-end :NodeJs</br>
 > database : <a herf='https://www.mongodb.com/'>MongoDB</a></br>
-> webServer: <a herf='https://www.nginx.com/'>NGINX</a>
+> webServer: <a herf='https://www.nginx.com/'>Nginx</a>
 
 ## Learning Objectives 
 - google API 
 - 音乐播放器制作
-
-## linking to the website
-- Please click [audio-book](http://readbook.myprojectcms.tk/#/) to visit the application.
-
 ## Features
 - 支持管理员修改图书样式，大写
 - 用户验证
@@ -28,3 +24,5 @@ system to make your own audiobook.
 - admin view
 ![Poduct](https://github.com/feixiangdjames/readingbook/blob/main/img/bookadmin.gif)
 - Detail Page 
+## linking to the website
+- Please click [audio-book](http://readbook.myprojectcms.tk/#/) to visit the application.
