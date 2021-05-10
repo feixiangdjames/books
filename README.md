@@ -22,7 +22,7 @@ system to make your own audiobook.
 - user view
 ![USER](https://github.com/feixiangdjames/readingbook/blob/main/img/bookuser.gif)
 - admin view
-![Poduct](https://github.com/feixiangdjames/readingbook/blob/main/img/bookadmin.gif)
+![Poduct](https://github.com/feixiangdjames/readingbook/blob/main/img/bookadmin1.gif)
 - Detail Page 
 ## linking to the website
 - Please click [audio-book](http://readbook.myprojectcms.tk/#/) to visit the application.
