@@ -1,22 +1,18 @@
 # Summary 
-this is a javascript full stack project for helping to read book,this 
-is an online audiobook system, you can use the 
-system to make your own audiobook.
-
-## stack
+This full stack project build with JavaScript allows visitor to read online audiobooks with various speeds. 
+It also permits Administrator to edit a text and its location on a page. 
 > front-end :HTML,CSS, javaScript `reactJs` </br>
-> back-end :NodeJs</br>
+> back-end :Node.js</br>
 > database : <a herf='https://www.mongodb.com/'>MongoDB</a></br>
 > webServer: <a herf='https://www.nginx.com/'>Nginx</a>
-
-## Learning Objectives 
-- google API 
-- 音乐播放器制作
+## Objectives 
+- To use Google speech to text API 
+- To develop an audio player 
 ## Features
-- 支持管理员修改图书样式，大写
-- 用户验证
-- 管理员和普通用户权限管理
-- 语音转文字
+Edit by administrators the size of a text and its location on the page.  
+User authentication 
+Manage roles and permissions 
+Convert audio to text using Google API 
 
 ## Effect display 
 - user view
@@ -25,4 +21,5 @@ system to make your own audiobook.
 ![Poduct](https://github.com/feixiangdjames/readingbook/blob/main/img/bookadmin1.gif)
 - Detail Page 
 ## linking to the website
-- Please click [audio-book](http://readbook.myprojectcms.tk/#/) to visit the application.
+- Please click [audio-book](http://readbook.myprojectcms.tk/#/) to visit the Web application deployed on Google Cloud VM.
+
