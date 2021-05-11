@@ -1,7 +1,7 @@
 # Summary 
 This full stack project build with JavaScript allows visitor to read online audiobooks with various speeds. 
 It also permits Administrator to edit a text and its location on a page. 
-> front-end :HTML,CSS,JavaScript,ReactJs,Redux</br>
+> front-end :HTML,CSS,JavaScript,ReactJs,Redux,Axios</br>
 > back-end :Node.js</br>
 > database : <a herf='https://www.mongodb.com/'>MongoDB</a></br>
 > webServer: <a herf='https://www.nginx.com/'>Nginx</a>
