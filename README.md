@@ -13,8 +13,7 @@ Edit by administrators the size of a text and its location on the page.
 User authentication 
 Manage roles and permissions 
 Convert audio to text using Google API 
-## linking to the website
-- Please click [audio-book](http://readbook.myprojectcms.tk/#/) to visit the Web application deployed on Google Cloud VM.
+
 ## Effect display 
 - User View
 ![USER](https://github.com/feixiangdjames/readingbook/blob/main/img/bookuser.gif)
